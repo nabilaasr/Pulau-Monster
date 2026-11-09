@@ -1,4 +1,4 @@
-# Pulau Monster — Tim Mahasiswa Batam
+# Pulau Monster - Nabila Suci Ramadhani
 ## Lingkungan
 - Unity 6000.3.24f1 / 6000.6.0f1 (JANGAN upgrade)
 - Template: Universal 2D, Input System
