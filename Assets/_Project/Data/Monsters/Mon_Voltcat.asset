@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f23fff6eb2c515a48a2395976ea2a13d, type: 3}
+  m_Name: Mon_Voltcat
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_011
+  displayName: Voltcat
+  element: 3
+  frames:
+  - {fileID: 5570063259918769014, guid: 6f8affe9faa597d45b4affb89cb42e7a, type: 3}
+  - {fileID: -256008233802414662, guid: 6f8affe9faa597d45b4affb89cb42e7a, type: 3}
+  - {fileID: -2671376771960297573, guid: 6f8affe9faa597d45b4affb89cb42e7a, type: 3}
+  - {fileID: -3777623318928194262, guid: 6f8affe9faa597d45b4affb89cb42e7a, type: 3}
+  baseHP: 54
+  baseATK: 20
+  baseDEF: 13
+  baseSPD: 19
+  skillName: Setrum Kilat
+  evolvesTo: {fileID: 11400000, guid: 7a4a37381bc150e459deafc24bbb2a7d, type: 2}
+  evolveLevel: 9

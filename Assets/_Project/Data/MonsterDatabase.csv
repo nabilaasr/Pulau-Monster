@@ -1,0 +1,13 @@
+id,name,element,stage,baseHP,baseATK,baseDEF,baseSPD,skillName,evolvesTo,evolveLevel,strongAgainst
+MON_001,Pyrit,Pyro,1,40,14,10,10,Semburan Api,Pyrago,5,Sprout
+MON_002,Pyrago,Pyro,2,62,21,15,14,Semburan Api,Infernox,9,Sprout
+MON_003,Infernox,Pyro,3,88,30,22,18,Semburan Api,,0,Sprout
+MON_004,Blubi,Aqua,1,44,12,12,9,Tembakan Air,Finnox,5,Pyro
+MON_005,Finnox,Aqua,2,66,18,18,13,Tembakan Air,Tidalord,9,Pyro
+MON_006,Tidalord,Aqua,3,94,25,27,16,Tembakan Air,,0,Pyro
+MON_007,Sprig,Sprout,1,42,13,11,9,Daun Tajam,Bloomlet,5,Aqua
+MON_008,Bloomlet,Sprout,2,63,19,16,13,Daun Tajam,Florazor,9,Aqua
+MON_009,Florazor,Sprout,3,90,27,24,17,Daun Tajam,,0,Aqua
+MON_010,Zapi,Volt,1,36,13,9,13,Setrum Kilat,Voltcat,5,Aqua
+MON_011,Voltcat,Volt,2,54,20,13,19,Setrum Kilat,Raijugar,9,Aqua
+MON_012,Raijugar,Volt,3,78,29,19,26,Setrum Kilat,,0,Aqua

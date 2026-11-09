@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f23fff6eb2c515a48a2395976ea2a13d, type: 3}
+  m_Name: Mon_Infernox
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_003
+  displayName: Infernox
+  element: 0
+  frames:
+  - {fileID: 2551803878051754359, guid: 18fefa4e7e15020439a3146129fa050f, type: 3}
+  - {fileID: 3600785117054164033, guid: 18fefa4e7e15020439a3146129fa050f, type: 3}
+  - {fileID: -4512056425898558548, guid: 18fefa4e7e15020439a3146129fa050f, type: 3}
+  - {fileID: -6689796563298228489, guid: 18fefa4e7e15020439a3146129fa050f, type: 3}
+  baseHP: 88
+  baseATK: 30
+  baseDEF: 22
+  baseSPD: 18
+  skillName: Semburan Api
+  evolvesTo: {fileID: 0}
+  evolveLevel: 0
