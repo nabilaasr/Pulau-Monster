@@ -1,6 +1,6 @@
 # Pulau Monster
 
-**Game 2D RPG Monster Nusantara**
+**Game 2D RPG Monster**
 
 ## Informasi Proyek
 - **Nama:** Nabila Suci Ramadhani
